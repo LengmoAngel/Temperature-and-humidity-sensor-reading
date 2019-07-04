@@ -1,22 +1,20 @@
-# 温湿度传感器读取
+# Temperature and humidity sensor reading
+
+#### Introduction to Functions
+Used for reading air temperature and humidity sensor and soil humidity sensor
+DHT22 and General Soil Moisture Sensor Based on Temperature and Humidity Sensor
+
+#### Installation tutorial
+1. Install Arduino ide or other substitutes before using this warehouse.
+2. Download this warehouse
+3. If only temperature and humidity sensors are needed to read, run main.ino
+if soil moisture and temperature and humidity sensors are required to read,Run soil_main.ino 
 
 #### Description
-{**When you're done, you can delete the content in this README and update the file with details for others getting started with your repository**}
 
-#### Software Architecture
-Software architecture description
-
-#### Installation
-
-1. xxxx
-2. xxxx
-3. xxxx
-
-#### Instructions
-
-1. xxxx
-2. xxxx
-3. xxxx
+1. Self-use items, self-experimental use.
+2. Use git to manage code for the first time. If there are errors, be inclusive.
+3. I hope to help these people who are first contacting with arduino and are at a loss like me.
 
 #### Contribution
 
@@ -26,11 +24,3 @@ Software architecture description
 4. Create Pull Request
 
 
-#### Gitee Feature
-
-1. You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2. Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3. Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4. The most valuable open source project [GVP](https://gitee.com/gvp)
-5. The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6. The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
