@@ -16,6 +16,10 @@ if soil moisture and temperature and humidity sensors are required to read,Run s
 2. Use git to manage code for the first time. If there are errors, be inclusive.
 3. I hope to help these people who are first contacting with arduino and are at a loss like me.
 
+####About problem
+1. Please ask in Commentary BLock
+2.if I have time,i will answer question.But,I am a student,I don't have more time.
+
 #### Contribution
 
 1. Fork the repository
