@@ -7,8 +7,7 @@ U8GLIB_SSD1306_128X64 u8g(10, 9, 12, 11);  // SW SPI Com: SCL = 10, SDA = 9, CS 
 DHT dht(DHTPIN, DHTTYPE);
 float sd,wd;
 void draw(void) {
-  if（)
-u8g.setFont(u8g_font_8x13); //使用8x13大小的字符
+  u8g.setFont(u8g_font_8x13); //使用8x13大小的字符
   u8g.setPrintPos(0, 20); // 对应 x，y 轴值
   u8g.print("HUMI(%) :");
   float sd = dht.readHumidity();
